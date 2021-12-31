@@ -10,5 +10,3 @@
 - [What Almost Dying Taught Me About Living](https://kimception.blog/2020/12/30/what-almost-dying-taught-me-about-living/)
 - [My Favorite San Jose Restaurants &lpar;2019&rpar;](https://kimception.blog/2019/01/29/san-joses-top-10-restaurants/)
 <!-- BLOG-POST-LIST:END -->
-
-<img align="left" alt="Kim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kim-nguyenkhn&show_icons=true">
