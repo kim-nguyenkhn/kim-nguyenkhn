@@ -1,6 +1,6 @@
 ### Hi there, I'm [Kim](https://kimception.blog/) 👋
 
-- 🔭 I’m currently working at Gusto!
+- 🔭 I’m currently building API's for payroll providers at Gusto!
 - 🌱 I’m ramping up on implementing modularity in Ruby on Rails
 - ⚡ Fun fact: I can type up to [175+ WPM](https://github.com/kim-nguyenkhn/kim-nguyenkhn/blob/main/monkeytype.PNG?raw=true) on [monkeytype.com](https://monkeytype.com/) and [180 WPM](https://github.com/kim-nguyenkhn/kim-nguyenkhn/blob/main/typeracer.PNG?raw=true) on [typeracer.com](https://typeracer.com/)
 
