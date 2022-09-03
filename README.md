@@ -6,7 +6,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Architecture: Stanford University](https://kimception.blog/2022/09/01/architecture-stanford-university/)
 - [Street Portraits: London](https://kimception.blog/2022/07/04/street-portraits-london/)
 - [Why I Took a Mid-Career Break](https://kimception.blog/2022/01/14/why-i-took-a-mid-career-break/)
-- [My Journey with Photography](https://kimception.blog/2021/12/02/my-journey-with-photography/)
 <!-- BLOG-POST-LIST:END -->
