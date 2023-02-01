@@ -1,4 +1,4 @@
-### Hi there, I'm [Kim](https://kimception.blog/) 👋
+### Hi there, I'm [Kim](https://kim-nguyenkhn.github.io/) 👋
 
 - 🔭 Currently at Gusto!
 - 🌱 I’m ramping up on Ruby on Rails
