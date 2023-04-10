@@ -6,7 +6,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [72 Hours in Paris](https://kimception.blog/2023/04/09/72-hours-in-paris/)
 - [Architecture: Stanford University](https://kimception.blog/2022/09/01/architecture-stanford-university/)
 - [Street Portraits: London](https://kimception.blog/2022/07/04/street-portraits-london/)
-- [Why I Took a Mid-Career Break](https://kimception.blog/2022/01/14/why-i-took-a-mid-career-break/)
 <!-- BLOG-POST-LIST:END -->
